@@ -1,5 +1,6 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
-
+developed by : M tharun
+regsister no : 212224230288
 ## AIM:
 To Implement ELGAMAL ALGORITHM
 
